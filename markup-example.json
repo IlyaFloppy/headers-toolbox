@@ -1,0 +1,86 @@
+{
+    "source": "https://ilyafloppy.github.io/headers-toolbox/markup-example.json",
+    "title": "Example markup",
+    "entries": [
+        [
+            {
+                "header": {
+                    "id": "x-n2-internal-headers-token",
+                    "name": "x-n2-internal-headers-token",
+                    "value": "",
+                    "enabled": false,
+                    "tooltip": null,
+                    "link": "https://ilyafloppy.github.io/headers-toolbox",
+                    "token": true,
+                    "editable": true
+                }
+            }
+        ],
+        [
+            {
+                "header": {
+                    "id": "x-n2-meshversion",
+                    "name": "x-n2-meshversion",
+                    "value": "",
+                    "enabled": false,
+                    "tooltip": "mesh",
+                    "link": "https://ilyafloppy.github.io/headers-toolbox",
+                    "token": false,
+                    "editable": true
+                }
+            }
+        ],
+        [
+            {
+                "header": {
+                    "id": "x-n2-debug",
+                    "name": "x-n2-debug",
+                    "value": "true",
+                    "enabled": false,
+                    "tooltip": "x-n2-debug",
+                    "link": null,
+                    "token": false,
+                    "editable": false
+                }
+            },
+            {
+                "header": {
+                    "id": "x-n2-debug-toolbar",
+                    "name": "x-n2-debug-toolbar",
+                    "value": "true",
+                    "enabled": false,
+                    "tooltip": "x-n2-debug-toolbar",
+                    "link": null,
+                    "token": false,
+                    "editable": false
+                }
+            }
+        ],
+        [
+            {
+                "header": {
+                    "id": "x-n2-sample-trace",
+                    "name": "x-n2-sample-trace",
+                    "value": "1",
+                    "enabled": false,
+                    "tooltip": "x-n2-sample-trace",
+                    "link": null,
+                    "token": false,
+                    "editable": false
+                }
+            },
+            {
+                "header": {
+                    "id": "x-n2-log-level",
+                    "name": "x-n2-log-level",
+                    "value": "debug",
+                    "enabled": false,
+                    "tooltip": "x-n2-log-level",
+                    "link": null,
+                    "token": false,
+                    "editable": true
+                }
+            }
+        ]
+    ]
+}
